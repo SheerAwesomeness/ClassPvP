@@ -1,4 +1,4 @@
-package Utilities;
+package com.XenosMC.Rampage.Utilities;
 
 
 import net.minecraft.server.v1_7_R3.NBTTagCompound;
