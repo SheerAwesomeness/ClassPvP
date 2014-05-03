@@ -20,7 +20,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import com.XenosMC.Rampage.Events.PlayerInteract;
 
 /**
- * Created by Thiemo on 3-5-2014.
+ * Created by Thiemo on 3-5-2014..
  */
 
 
